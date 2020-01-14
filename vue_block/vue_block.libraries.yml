@@ -1,0 +1,11 @@
+vue-block:
+  version: 1.x
+  footer: true
+  js:
+    js/index.js: {preprocess: 0, attributes: { defer: true}}
+
+VueJS:
+  version: 2.x
+  header: true
+  js:
+    https://cdn.jsdelivr.net/npm/vue/dist/vue.js: { external: true, minified: false }

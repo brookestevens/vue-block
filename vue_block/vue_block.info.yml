@@ -1,0 +1,5 @@
+name: Vue Block
+type: module
+description: progressively decoupled block with Vue.js
+package: SRC
+core: 8.x
